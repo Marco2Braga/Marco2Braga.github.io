@@ -1,3 +1,5 @@
+title: JOGO DO AMIGO SECRETO
+description: Vamos sortear o seu amigo?
 <!-- Imagem de capa (opcional) -->
 <p align="center">
   <img src="assets/amigo-secreto.png" alt="Logo Amigo Secreto" width="200">
@@ -39,3 +41,4 @@ cd amigo-secreto
 
 # Abra o HTML no navegador
 # Ou use um servidor local como Live Server no VSCode
+
