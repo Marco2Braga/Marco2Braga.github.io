@@ -42,3 +42,11 @@ cd amigo-secreto
 # Abra o HTML no navegador
 # Ou use um servidor local como Live Server no VSCode
 
+## Problemas
+tive problemas para interagir com html por um tempo, mas consegui encontrar o erro
+tinha modificado uma parte do codigo HTML sem querer. E foi resolvido sem problemas.
+
+<img width="888" height="548" alt="image" src="https://github.com/user-attachments/assets/fda71b1f-cd92-4846-9906-01decd2a278c" />
+<img width="888" height="543" alt="image" src="https://github.com/user-attachments/assets/6db0682e-12b8-4a75-a211-67e22e2eebd3" />
+<img width="951" height="555" alt="image" src="https://github.com/user-attachments/assets/01becbf4-4d31-4a8f-9b49-65f0f5155d6e" />
+
